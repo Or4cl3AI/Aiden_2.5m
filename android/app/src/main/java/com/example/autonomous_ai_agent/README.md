@@ -18,7 +18,7 @@ The Autonomous AI Agent Android App is an advanced conversational AI agent that 
 
 To install the Autonomous AI Agent Android App, follow these steps:
 
-1. Download the APK file from the following link: [Autonomous AI Agent App](android/app/src/main/java/com/example/autonomous_ai_agent/app-debug.apk)
+1. Download the APK file from the following link: [Autonomous AI Agent App](https://example.com/autonomous_ai_agent/app-debug.apk)
 
 2. Transfer the APK file to your Android device.
 
