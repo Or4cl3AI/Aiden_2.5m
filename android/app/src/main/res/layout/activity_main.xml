@@ -1,0 +1,67 @@
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="16dp"
+    android:paddingTop="16dp"
+    android:paddingRight="16dp"
+    android:paddingBottom="16dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/titleTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Autonomous AI Agent"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/descriptionTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome to the Conversational Autonomous AI Agent!"
+        android:textSize="18sp"
+        android:layout_marginTop="16dp" />
+
+    <Button
+        android:id="@+id/startButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Start"
+        android:layout_marginTop="16dp" />
+
+    <Button
+        android:id="@+id/stopButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Stop"
+        android:layout_marginTop="8dp" />
+
+    <Button
+        android:id="@+id/generateButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Generate Code"
+        android:layout_marginTop="8dp" />
+
+    <Button
+        android:id="@+id/deployButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Deploy"
+        android:layout_marginTop="8dp" />
+
+    <Button
+        android:id="@+id/manageButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Manage"
+        android:layout_marginTop="8dp" />
+
+</LinearLayout>
+```

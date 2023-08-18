@@ -1,0 +1,14 @@
+ruby_on_rails/requirements.txt code:
+
+```
+rails
+sqlite3
+puma
+sass-rails
+webpacker
+turbolinks
+jbuilder
+bootsnap
+```
+
+This is the code for the `requirements.txt` file in Ruby on Rails. It lists the required gems and libraries for the application.
