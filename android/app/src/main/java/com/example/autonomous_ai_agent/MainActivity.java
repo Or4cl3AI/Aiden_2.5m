@@ -1,6 +1,3 @@
-Here is the code for the file `android/app/src/main/java/com/example/autonomous_ai_agent/MainActivity.java`:
-
-```java
 package com.example.autonomous_ai_agent;
 
 import android.os.Bundle;
@@ -13,7 +10,11 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        // Your code here
+        // Implement the logic for handling the APK download request
+        String apkUrl = "https://example.com/autonomous_ai_agent/app-debug.apk";
+        Uri uri = Uri.parse(apkUrl);
+        Intent intent = new Intent(Intent.ACTION_VIEW, uri);
+        startActivity(intent);
     }
 }
 ```
