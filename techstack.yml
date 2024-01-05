@@ -1,7 +1,8 @@
 repo_name: Or4cl3AI/Aiden_2.5m
 report_id: e98a5c44d55b3f712bd6cd25cd2f2b2f
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-24T01:59:18+00:00'
+timestamp: '2024-01-05T08:34:29+00:00'
 requested_by: Or4cl3AI
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/Or4cl3AI/Aiden_2.5m
   detection_source: Repo Metadata
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/Or4cl3AI/Aiden_2.5m
   detection_source: Repo Metadata
 - name: Android SDK
   description: An SDK that provides you the API libraries and developer tools necessary
@@ -37,7 +40,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
-  detection_source_url: android/app/build.gradle
+  detection_source_url: https://github.com/Or4cl3AI/Aiden_2.5m/blob/main/android/app/build.gradle
   detection_source: android/app/build.gradle
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-18 08:17:54.000000000 Z
@@ -49,6 +52,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Or4cl3AI/Aiden_2.5m
   detection_source: Repo Metadata
 - name: Gradle
   description: A powerful build system for the JVM
@@ -59,6 +63,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/Or4cl3AI/Aiden_2.5m/blob/main/android/app/build.gradle
   detection_source: android/app/build.gradle
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-18 08:17:54.000000000 Z
@@ -71,7 +76,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
-  detection_source_url: android/app/build.gradle
+  detection_source_url: https://github.com/Or4cl3AI/Aiden_2.5m/blob/main/android/app/build.gradle
   detection_source: android/app/build.gradle
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-18 08:17:54.000000000 Z
@@ -84,7 +89,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
-  detection_source_url: android/app/build.gradle
+  detection_source_url: https://github.com/Or4cl3AI/Aiden_2.5m/blob/main/android/app/build.gradle
   detection_source: android/app/build.gradle
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-18 08:17:54.000000000 Z
